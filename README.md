@@ -1,5 +1,7 @@
 # Helmholtz of Gaussian
 
+**Development of Helmholtz of Gaussian Kernel for Edge Detection**
+
 MATLAB CODES:
 
 #Matlab Implementation of 2D Laplacian of Gaussian : LoG_2D.m
